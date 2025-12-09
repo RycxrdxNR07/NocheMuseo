@@ -1,0 +1,12 @@
+
+      .texto-informativo {
+        max-width: 700px;
+        margin: 50px auto;
+        font-size: 18px;
+        text-align: justify;
+      }
+
+      .creditos-container {
+        text-align: center;
+        margin-bottom: 60px;
+      }
