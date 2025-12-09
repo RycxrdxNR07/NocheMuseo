@@ -63,7 +63,7 @@ HTML, body {
 #unity-container {
 
     max-width: 100%;
-
+    max-height: 80%;
     overflow: auto;
 
 }
